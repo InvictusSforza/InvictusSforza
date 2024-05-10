@@ -40,6 +40,7 @@ Interested in the development of artificial intelligence and its branches, with 
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23013243.svg?style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-05122A.svg?style=flat&logo=google-colab&logoColor=white)&nbsp;
 ![Pycharm](https://img.shields.io/badge/Pycharm-%23013243.svg?style=flat&logo=pycharm)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau)&nbsp;
 
 ### Frontend development
 &emsp;
